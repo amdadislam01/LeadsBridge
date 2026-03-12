@@ -1,0 +1,52 @@
+[
+    {
+        "offset": "GMT+05:30",
+        "name": "India Standard Time",
+        "value": "Asia/Kolkata"
+    },
+    {
+        "offset": "GMT+06:00",
+        "name": "Bangladesh Standard Time",
+        "value": "Asia/Dhaka"
+    },
+    {
+        "offset": "GMT-05:00",
+        "name": "Eastern Standard Time",
+        "value": "America/New_York"
+    },
+    {
+        "offset": "GMT-08:00",
+        "name": "Pacific Standard Time",
+        "value": "America/Los_Angeles"
+    },
+    {
+        "offset": "GMT+01:00",
+        "name": "Central European Time",
+        "value": "Europe/Berlin"
+    },
+    {
+        "offset": "GMT+00:00",
+        "name": "Western European Time",
+        "value": "Europe/London"
+    },
+    {
+        "offset": "GMT+08:00",
+        "name": "China Standard Time",
+        "value": "Asia/Shanghai"
+    },
+    {
+        "offset": "GMT+09:00",
+        "name": "Japan Standard Time",
+        "value": "Asia/Tokyo"
+    },
+    {
+        "offset": "GMT+10:00",
+        "name": "Australian Eastern Time",
+        "value": "Australia/Sydney"
+    },
+    {
+        "offset": "GMT+04:00",
+        "name": "Gulf Standard Time",
+        "value": "Asia/Dubai"
+    }
+]
